@@ -1,5 +1,5 @@
 # PokemonReactJS_Redux
- <b>API: https://api.pokemontcg.io/v1/cards </b>
+ <b>API: https://api.pokemontcg.io/v1/cards </b></br>
  <b>To run</b>:<br>
 * npm install
 * npm start
